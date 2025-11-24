@@ -4,7 +4,8 @@
     "express": "^5.1.0",
     "peer": "^1.0.2",
     "peerjs": "^1.5.5",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "uuid": "^13.0.0"
   },
   "name": "y",
   "version": "1.0.0",
